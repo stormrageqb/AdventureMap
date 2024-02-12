@@ -15,7 +15,7 @@ You can view a demo [here](https://drive.google.com/file/d/1p8xMEk3cjhzhsdxSeBC2
 
 ## Description
 
-This is an interactive map application I developed using HTML, CSS, and JavaScript. The inspiration for this project came from Mapty, another application you can view [here](https://github.com/Mully7773/Mapty).
+This is an interactive map application I developed using HTML, CSS, and JavaScript. The inspiration for this project came from Mapty, another application you can view [here](https://github.com/stormrage/Mapty).
 
 <br>
 
@@ -66,5 +66,5 @@ Moment.js - Used to nicely format the date
 
 ## Questions:
 
-Feel free to contact me at mully7773@gmail.com if you have any questions. <br>
-You can view more of my projects at https://github.com/Mully7773.
+Feel free to contact me at stormrage.qb@gmail.com if you have any questions. <br>
+You can view more of my projects at https://github.com/stormrage.
